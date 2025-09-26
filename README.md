@@ -18,7 +18,7 @@ This quickstart guide was developed by [Colin Ophus](mailto:cophus@gmail.com) an
 
 Steps to edit locally:
 - git clone repo (`git clone git@github.com:msa-em/change-to-repo-name.git`)
-- switch to `dev` branch (`git checkout dev`)
+- switch to `dev` branch (`git checkout -b dev`)
 - edit `environment.yml` to
   - change the environment `name` to the repo name
   - add your package dependencies, pinning versions as necessary
@@ -32,7 +32,7 @@ Steps to edit locally:
   ```
   - uncommenting these lines
   ```yml
-  #  jupyter:
+    #  jupyter:
     #    server:
     #      url: 'http://localhost:8888'
     #      token: '512ac78f14e1141db1fac17e8b4099c1e5bc7d589518b38c'
