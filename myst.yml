@@ -11,14 +11,14 @@ project:
     - Spell Out Acronyms
   github: https://github.com/msa-em/change-this-to-repo-name
   jupyter: true
-  #  jupyter:
-  #    binder:
-  #      url: https://y2j74k9mn0bz.curvenote.dev/services/binder/
-  #      repo: msa-em/change-this-to-repo-name
-  #  jupyter:
-  #    server:
-  #      url: 'http://localhost:8888'
-  #      token: '512ac78f14e1141db1fac17e8b4099c1e5bc7d589518b38c'
+  # jupyter:
+  #   binder:
+  #     url: https://y2j74k9mn0bz.curvenote.dev/services/binder/
+  #     repo: msa-em/change-this-to-repo-name
+  # jupyter:
+  #   server:
+  #     url: 'http://localhost:8888'
+  #     token: '512ac78f14e1141db1fac17e8b4099c1e5bc7d589518b38c'
   open_access: true
   license: CC-BY-4.0
   banner: banner.png
